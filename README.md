@@ -23,7 +23,7 @@
 
 * Windows 10 / 11
 * Python 3.9 以上
-* `ore.exe` 已加入 PATH 環境變數
+* `ore.exe` 放在根目錄中
   （可在命令提示字元中輸入 `ore.exe --version` 測試）
 
 ---
